@@ -1,0 +1,328 @@
+Company_Name,Sector,Date,EPS,P_E,Dividend_Yield
+BankA,Commercial Bank,2022-01-01,3.50,12.50,4.20
+BankA,Commercial Bank,2022-02-01,3.55,12.60,4.25
+BankA,Commercial Bank,2022-03-01,3.60,12.70,4.30
+BankA,Commercial Bank,2022-04-01,3.65,12.80,4.35
+BankA,Commercial Bank,2022-05-01,3.70,12.90,4.40
+BankA,Commercial Bank,2022-06-01,3.75,13.00,4.45
+BankA,Commercial Bank,2022-07-01,3.80,13.10,4.50
+BankA,Commercial Bank,2022-08-01,3.85,13.20,4.55
+BankA,Commercial Bank,2022-09-01,3.90,13.30,4.60
+BankA,Commercial Bank,2022-10-01,3.95,13.40,4.65
+BankA,Commercial Bank,2022-11-01,4.00,13.50,4.70
+BankA,Commercial Bank,2022-12-01,4.05,13.60,4.75
+BankA,Commercial Bank,2023-01-01,4.10,13.70,4.80
+BankA,Commercial Bank,2023-02-01,4.15,13.80,4.85
+BankA,Commercial Bank,2023-03-01,4.20,13.90,4.90
+BankA,Commercial Bank,2023-04-01,4.25,14.00,4.95
+BankA,Commercial Bank,2023-05-01,4.30,14.10,5.00
+BankA,Commercial Bank,2023-06-01,4.35,14.20,5.05
+BankA,Commercial Bank,2023-07-01,4.40,14.30,5.10
+BankA,Commercial Bank,2023-08-01,4.45,14.40,5.15
+BankA,Commercial Bank,2023-09-01,4.50,14.50,5.20
+BankA,Commercial Bank,2023-10-01,4.55,14.60,5.25
+BankA,Commercial Bank,2023-11-01,4.60,14.70,5.30
+BankA,Commercial Bank,2023-12-01,4.65,14.80,5.35
+BankA,Commercial Bank,2024-01-01,4.70,14.90,5.40
+BankA,Commercial Bank,2024-02-01,4.75,15.00,5.45
+BankA,Commercial Bank,2024-03-01,4.80,15.10,5.50
+BankA,Commercial Bank,2024-04-01,4.85,15.20,5.55
+BankA,Commercial Bank,2024-05-01,4.90,15.30,5.60
+BankA,Commercial Bank,2024-06-01,4.95,15.40,5.65
+BankA,Commercial Bank,2024-07-01,5.00,15.50,5.70
+BankA,Commercial Bank,2024-08-01,5.05,15.60,5.75
+BankA,Commercial Bank,2024-09-01,5.10,15.70,5.80
+BankA,Commercial Bank,2024-10-01,5.15,15.80,5.85
+BankA,Commercial Bank,2024-11-01,5.20,15.90,5.90
+BankA,Commercial Bank,2024-12-01,5.25,16.00,5.95
+HydroB,Hydropower,2022-01-01,2.80,15.00,3.80
+HydroB,Hydropower,2022-02-01,2.85,15.10,3.85
+HydroB,Hydropower,2022-03-01,2.90,15.20,3.90
+HydroB,Hydropower,2022-04-01,2.95,15.30,3.95
+HydroB,Hydropower,2022-05-01,3.00,15.40,4.00
+HydroB,Hydropower,2022-06-01,3.05,15.50,4.05
+HydroB,Hydropower,2022-07-01,3.10,15.60,4.10
+HydroB,Hydropower,2022-08-01,3.15,15.70,4.15
+HydroB,Hydropower,2022-09-01,3.20,15.80,4.20
+HydroB,Hydropower,2022-10-01,3.25,15.90,4.25
+HydroB,Hydropower,2022-11-01,3.30,16.00,4.30
+HydroB,Hydropower,2022-12-01,3.35,16.10,4.35
+HydroB,Hydropower,2023-01-01,3.40,16.20,4.40
+HydroB,Hydropower,2023-02-01,3.45,16.30,4.45
+HydroB,Hydropower,2023-03-01,3.50,16.40,4.50
+HydroB,Hydropower,2023-04-01,3.55,16.50,4.55
+HydroB,Hydropower,2023-05-01,3.60,16.60,4.60
+HydroB,Hydropower,2023-06-01,3.65,16.70,4.65
+HydroB,Hydropower,2023-07-01,3.70,16.80,4.70
+HydroB,Hydropower,2023-08-01,3.75,16.90,4.75
+HydroB,Hydropower,2023-09-01,3.80,17.00,4.80
+HydroB,Hydropower,2023-10-01,3.85,17.10,4.85
+HydroB,Hydropower,2023-11-01,3.90,17.20,4.90
+HydroB,Hydropower,2023-12-01,3.95,17.30,4.95
+HydroB,Hydropower,2024-01-01,4.00,17.40,5.00
+HydroB,Hydropower,2024-02-01,4.05,17.50,5.05
+HydroB,Hydropower,2024-03-01,4.10,17.60,5.10
+HydroB,Hydropower,2024-04-01,4.15,17.70,5.15
+HydroB,Hydropower,2024-05-01,4.20,17.80,5.20
+HydroB,Hydropower,2024-06-01,4.25,17.90,5.25
+HydroB,Hydropower,2024-07-01,4.30,18.00,5.30
+HydroB,Hydropower,2024-08-01,4.35,18.10,5.35
+HydroB,Hydropower,2024-09-01,4.40,18.20,5.40
+HydroB,Hydropower,2024-10-01,4.45,18.30,5.45
+HydroB,Hydropower,2024-11-01,4.50,18.40,5.50
+HydroB,Hydropower,2024-12-01,4.55,18.50,5.55
+HotelC,Hotel and Tourism,2022-01-01,1.50,18.00,2.50
+HotelC,Hotel and Tourism,2022-02-01,1.55,18.10,2.55
+HotelC,Hotel and Tourism,2022-03-01,1.60,18.20,2.60
+HotelC,Hotel and Tourism,2022-04-01,1.65,18.30,2.65
+HotelC,Hotel and Tourism,2022-05-01,1.70,18.40,2.70
+HotelC,Hotel and Tourism,2022-06-01,1.75,18.50,2.75
+ được
+HotelC,Hotel and Tourism,2022-07-01,1.80,18.60,2.80
+HotelC,Hotel and Tourism,2022-08-01,1.85,18.70,2.85
+HotelC,Hotel and Tourism,2022-09-01,1.90,18.80,2.90
+HotelC,Hotel and Tourism,2022-10-01,1.95,18.90,2.95
+HotelC,Hotel and Tourism,2022-11-01,2.00,19.00,3.00
+HotelC,Hotel and Tourism,2022-12-01,2.05,19.10,3.05
+HotelC,Hotel and Tourism,2023-01-01,2.10,19.20,3.10
+HotelC,Hotel and Tourism,2023-02-01,2.15,19.30,3.15
+HotelC,Hotel and Tourism,2023-03-01,2.20,19.40,3.20
+HotelC,Hotel and Tourism,2023-04-01,2.25,19.50,3.25
+HotelC,Hotel and Tourism,2023-05-01,2.30,19.60,3.30
+HotelC,Hotel and Tourism,2023-06-01,2.35,19.70,3.35
+HotelC,Hotel and Tourism,2023-07-01,2.40,19.80,3.40
+HotelC,Hotel and Tourism,2023-08-01,2.45,19.90,3.45
+HotelC,Hotel and Tourism,2023-09-01,2.50,20.00,3.50
+HotelC,Hotel and Tourism,2023-10-01,2.55,20.10,3.55
+HotelC,Hotel and Tourism,2023-11-01,2.60,20.20,3.60
+HotelC,Hotel and Tourism,2023-12-01,2.65,20.30,3.65
+HotelC,Hotel and Tourism,2024-01-01,2.70,20.40,3.70
+HotelC,Hotel and Tourism,2024-02-01,2.75,20.50,3.75
+HotelC,Hotel and Tourism,2024-03-01,2.80,20.60,3.80
+HotelC,Hotel and Tourism,2024-04-01,2.85,20.70,3.85
+HotelC,Hotel and Tourism,2024-05-01,2.90,20.80,3.90
+HotelC,Hotel and Tourism,2024-06-01,2.95,20.90,3.95
+HotelC,Hotel and Tourism,2024-07-01,3.00,21.00,4.00
+HotelC,Hotel and Tourism,2024-08-01,3.05,21.10,4.05
+HotelC,Hotel and Tourism,2024-09-01,3.10,21.20,4.10
+HotelC,Hotel and Tourism,2024-10-01,3.15,21.30,4.15
+HotelC,Hotel and Tourism,2024-11-01,3.20,21.40,4.20
+HotelC,Hotel and Tourism,2024-12-01,3.25,21.50,4.25
+DebentureD,Corporate Debentures,2022-01-01,4.00,10.00,5.00
+DebentureD,Corporate Debentures,2022-02-01,4.05,10.10,5.05
+DebentureD,Corporate Debentures,2022-03-01,4.10,10.20,5.10
+DebentureD,Corporate Debentures,2022-04-01,4.15,10.30,5.15
+DebentureD,Corporate Debentures,2022-05-01,4.20,10.40,5.20
+DebentureD,Corporate Debentures,2022-06-01,4.25,10.50,5.25
+DebentureD,Corporate Debentures,2022-07-01,4.30,10.60,5.30
+DebentureD,Corporate Debentures,2022-08-01,4.35,10.70,5.35
+DebentureD,Corporate Debentures,2022-09-01,4.40,10.80,5.40
+DebentureD,Corporate Debentures,2022-10-01,4.45,10.90,5.45
+DebentureD,Corporate Debentures,2022-11-01,4.50,11.00,5.50
+DebentureD,Corporate Debentures,2022-12-01,4.55,11.10,5.55
+DebentureD,Corporate Debentures,2023-01-01,4.60,11.20,5.60
+DebentureD,Corporate Debentures,2023-02-01,4.65,11.30,5.65
+DebentureD,Corporate Debentures,2023-03-01,4.70,11.40,5.70
+DebentureD,Corporate Debentures,2023-04-01,4.75,11.50,5.75
+DebentureD,Corporate Debentures,2023-05-01,4.80,11.60,5.80
+DebentureD,Corporate Debentures,2023-06-01,4.85,11.70,5.85
+DebentureD,Corporate Debentures,2023-07-01,4.90,11.80,5.90
+DebentureD,Corporate Debentures,2023-08-01,4.95,11.90,5.95
+DebentureD,Corporate Debentures,2023-09-01,5.00,12.00,6.00
+DebentureD,Corporate Debentures,2023-10-01,5.05,12.10,6.05
+DebentureD,Corporate Debentures,2023-11-01,5.10,12.20,6.10
+DebentureD,Corporate Debentures,2023-12-01,5.15,12.30,6.15
+DebentureD,Corporate Debentures,2024-01-01,5.20,12.40,6.20
+DebentureD,Corporate Debentures,2024-02-01,5.25,12.50,6.25
+DebentureD,Corporate Debentures,2024-03-01,5.30,12.60,6.30
+DebentureD,Corporate Debentures,2024-04-01,5.35,12.70,6.35
+DebentureD,Corporate Debentures,2024-05-01,5.40,12.80,6.40
+DebentureD,Corporate Debentures,2024-06-01,5.45,12.90,6.45
+DebentureD,Corporate Debentures,2024-07-01,5.50,13.00,6.50
+DebentureD,Corporate Debentures,2024-08-01,5.55,13.10,6.55
+DebentureD,Corporate Debentures,2024-09-01,5.60,13.20,6.60
+DebentureD,Corporate Debentures,2024-10-01,5.65,13.30,6.65
+DebentureD,Corporate Debentures,2024-11-01,5.70,13.40,6.70
+DebentureD,Corporate Debentures,2024-12-01,5.75,13.50,6.75
+FinanceE,Finance,2022-01-01,2.20,14.00,3.50
+FinanceE,Finance,2022-02-01,2.25,14.10,3.55
+FinanceE,Finance,2022-03-01,2.30,14.20,3.60
+FinanceE,Finance,2022-04-01,2.35,14.30,3.65
+FinanceE,Finance,2022-05-01,2.40,14.40,3.70
+FinanceE,Finance,2022-06-01,2.45,14.50,3.75
+FinanceE,Finance,2022-07-01,2.50,14.60,3.80
+FinanceE,Finance,2022-08-01,2.55,14.70,3.85
+FinanceE,Finance,2022-09-01,2.60,14.80,3.90
+FinanceE,Finance,2022-10-01,2.65,14.90,3.95
+FinanceE,Finance,2022-11-01,2.70,15.00,4.00
+FinanceE,Finance,2022-12-01,2.75,15.10,4.05
+FinanceE,Finance,2023-01-01,2.80,15.20,4.10
+FinanceE,Finance,2023-02-01,2.85,15.30,4.15
+FinanceE,Finance,2023-03-01,2.90,15.40,4.20
+FinanceE,Finance,2023-04-01,2.95,15.50,4.25
+FinanceE,Finance,2023-05-01,3.00,15.60,4.30
+FinanceE,Finance,2023-06-01,3.05,15.70,4.35
+FinanceE,Finance,2023-07-01,3.10,15.80,4.40
+FinanceE,Finance,2023-08-01,3.15,15.90,4.45
+FinanceE,Finance,2023-09-01,3.20,16.00,4.50
+FinanceE,Finance,2023-10-01,3.25,16.10,4.55
+FinanceE,Finance,2023-11-01,3.30,16.20,4.60
+FinanceE,Finance,2023-12-01,3.35,16.30,4.65
+FinanceE,Finance,2024-01-01,3.40,16.40,4.70
+FinanceE,Finance,2024-02-01,3.45,16.50,4.75
+FinanceE,Finance,2024-03-01,3.50,16.60,4.80
+FinanceE,Finance,2024-04-01,3.55,16.70,4.85
+FinanceE,Finance,2024-05-01,3.60,16.80,4.90
+FinanceE,Finance,2024-06-01,3.65,16.90,4.95
+FinanceE,Finance,2024-07-01,3.70 doj
+FinanceE,Finance,2024-07-01,3.70,17.00,5.00
+FinanceE,Finance,2024-08-01,3.75,17.10,5.05
+FinanceE,Finance,2024-09-01,3.80,17.20,5.10
+FinanceE,Finance,2024-10-01,3.85,17.30,5.15
+FinanceE,Finance,2024-11-01,3.90,17.40,5.20
+FinanceE,Finance,2024-12-01,3.95,17.50,5.25
+BondF,Government Bonds,2022-01-01,3.00,8.00,6.00
+BondF,Government Bonds,2022-02-01,3.05,8.10,6.05
+BondF,Government Bonds,2022-03-01,3.10,8.20,6.10
+BondF,Government Bonds,2022-04-01,3.15,8.30,6.15
+BondF,Government Bonds,2022-05-01,3.20,8.40,6.20
+BondF,Government Bonds,2022-06-01,3.25,8.50,6.25
+BondF,Government Bonds,2022-07-01,3.30,8.60,6.30
+BondF,Government Bonds,2022-08-01,3.35,8.70,6.35
+BondF,Government Bonds,2022-09-01,3.40,8.80,6.40
+BondF,Government Bonds,2022-10-01,3.45,8.90,6.45
+BondF,Government Bonds,2022-11-01,3.50,9.00,6.50
+BondF,Government Bonds,2022-12-01,3.55,9.10,6.55
+BondF,Government Bonds,2023-01-01,3.60,9.20,6.60
+BondF,Government Bonds,2023-02-01,3.65,9.30,6.65
+BondF,Government Bonds,2023-03-01,3.70,9.40,6.70
+BondF,Government Bonds,2023-04-01,3.75,9.50,6.75
+BondF,Government Bonds,2023-05-01,3.80,9.60,6.80
+BondF,Government Bonds,2023-06-01,3.85,9.70,6.85
+BondF,Government Bonds,2023-07-01,3.90,9.80,6.90
+BondF,Government Bonds,2023-08-01,3.95,9.90,6.95
+BondF,Government Bonds,2023-09-01,4.00,10.00,7.00
+BondF,Government Bonds,2023-10-01,4.05,10.10,7.05
+BondF,Government Bonds,2023-11-01,4.10,10.20,7.10
+BondF,Government Bonds,2023-12-01,4.15,10.30,7.15
+BondF,Government Bonds,2024-01-01,4.20,10.40,7.20
+BondF,Government Bonds,2024-02-01,4.25,10.50,7.25
+BondF,Government Bonds,2024-03-01,4.30,10.60,7.30
+BondF,Government Bonds,2024-04-01,4.35,10.70,7.35
+BondF,Government Bonds,2024-05-01,4.40,10.80,7.40
+BondF,Government Bonds,2024-06-01,4.45,10.90,7.45
+BondF,Government Bonds,2024-07-01,4.50,11.00,7.50
+BondF,Government Bonds,2024-08-01,4.55,11.10,7.55
+BondF,Government Bonds,2024-09-01,4.60,11.20,7.60
+BondF,Government Bonds,2024-10-01,4.65,11.30,7.65
+BondF,Government Bonds,2024-11-01,4.70,11.40,7.70
+BondF,Government Bonds,2024-12-01,4.75,11.50,7.75
+InvestG,Investment,2022-01-01,2.50,16.00,3.00
+InvestG,Investment,2022-02-01,2.55,16.10,3.05
+InvestG,Investment,2022-03-01,2.60,16.20,3.10
+InvestG,Investment,2022-04-01,2.65,16.30,3.15
+InvestG,Investment,2022-05-01,2.70,16.40,3.20
+InvestG,Investment,2022-06-01,2.75,16.50,3.25
+InvestG,Investment,2022-07-01,2.80,16.60,3.30
+InvestG,Investment,2022-08-01,2.85,16.70,3.35
+InvestG,Investment,2022-09-01,2.90,16.80,3.40
+InvestG,Investment,2022-10-01,2.95,16.90,3.45
+InvestG,Investment,2022-11-01,3.00,17.00,3.50
+InvestG,Investment,2022-12-01,3.05,17.10,3.55
+InvestG,Investment,2023-01-01,3.10,17.20,3.60
+InvestG,Investment,2023-02-01,3.15,17.30,3.65
+InvestG,Investment,2023-03-01,3.20,17.40,3.70
+InvestG,Investment,2023-04-01,3.25,17.50,3.75
+InvestG,Investment,2023-05-01,3.30,17.60,3.80
+InvestG,Investment,2023-06-01,3.35,17.70,3.85
+InvestG,Investment,2023-07-01,3.40,17.80,3.90
+InvestG,Investment,2023-08-01,3.45,17.90,3.95
+InvestG,Investment,2023-09-01,3.50,18.00,4.00
+InvestG,Investment,2023-10-01,3.55,18.10,4.05
+InvestG,Investment,2023-11-01,3.60,18.20,4.10
+InvestG,Investment,2023-12-01,3.65,18.30,4.15
+InvestG,Investment,2024-01-01,3.70,18.40,4.20
+InvestG,Investment,2024-02-01,3.75,18.50,4.25
+InvestG,Investment,2024-03-01,3.80,18.60,4.30
+InvestG,Investment,2024-04-01,3.85,18.70,4.35
+InvestG,Investment,2024-05-01,3.90,18.80,4.40
+InvestG,Investment,2024-06-01,3.95,18.90,4.45
+InvestG,Investment,2024-07-01,4.00,19.00,4.50
+InvestG,Investment,2024-08-01,4.05,19.10,4.55
+InvestG,Investment,2024-09-01,4.10,19.20,4.60
+InvestG,Investment,2024-10-01,4.15,19.30,4.65
+InvestG,Investment,2024-11-01,4.20,19.40,4.70
+InvestG,Investment,2024-12-01,4.25,19.50,4.75
+LifeH,Life Insurance,2022-01-01,3.20,13.00,4.00
+LifeH,Life Insurance,2022-02-01,3.25,13.10,4.05
+LifeH,Life Insurance,2022-03-01,3.30,13.20,4.10
+LifeH,Life Insurance,2022-04-01,3.35,13.30,4.15
+LifeH,Life Insurance,2022-05-01,3.40,13.40,4.20
+LifeH,Life Insurance,2022-06-01,3.45,13.50,4.25
+LifeH,Life Insurance,2022-07-01,3.50,13.60,4.30
+LifeH,Life Insurance,2022-08-01,3.55,13.70,4.35
+LifeH,Life Insurance,2022-09-01,3.60,13.80,4.40
+LifeH,Life Insurance,2022-10-01,3.65,13.90,4.45
+LifeH,Life Insurance,2022-11-01,3.70,14.00,4.50
+LifeH,Life Insurance,2022-12-01,3.75,14.10,4.55
+LifeH,Life Insurance,2023-01-01,3.80,14.20,4.60
+LifeH,Life Insurance,2023-02-01,3.85,14.30,4.65
+LifeH,Life Insurance,2023-03-01,3.90,14.40,4.70
+LifeH,Life Insurance,2023-04-01,3.95,14.50,4.75
+LifeH,Life Insurance,2023-05-01,4.00,14.60,4.80
+LifeH,Life Insurance,2023-06-01,4.05,14.70,4.85
+LifeH,Life Insurance,2023-07-01,4.10,14.80,4.90
+LifeH,Life Insurance,2023-08-01,4.15,14.90,4.95
+LifeH,Life Insurance,2023-09-01,4.20,15.00,5.00
+LifeH,Life Insurance,2023-10-01,4.25,15.10,5.05
+LifeH,Life Insurance,2023-11-01,4.30,15.20,5.10
+LifeH,Life Insurance,2023-12-01,4.35,15.30,5.15
+LifeH,Life Insurance,2024-01-01,4.40,15.40,5.20
+LifeH,Life Insurance,2024-02-01,4.45,15.50,5.25
+LifeH,Life Insurance,2024-03-01,4.50,15.60,5.30
+LifeH,Life Insurance,2024-04-01,4.55,15.70,5.35
+LifeH,Life Insurance,2024-05-01,4.60,15.80,5.40
+LifeH,Life Insurance,2024-06-01,4.65,15.90,5.45
+LifeH,Life Insurance,2024-07-01,4.70,16.00,5.50
+LifeH,Life Insurance,2024-08-01,4.75,16.10,5.55
+LifeH,Life Insurance,2024-09-01,4.80,16.20,5.60
+LifeH,Life Insurance,2024-10-01,4.85,16.30,5.65
+LifeH,Life Insurance,2024-11-01,4.90,16.40,5.70
+LifeH,Life Insurance,2024-12-01,4.95,16.50,5.75
+TradeI,Trading,2022-01-01,1.80,17.00,2.80
+TradeI,Trading,2022-02-01,1.85,17.10,2.85
+TradeI,Trading,2022-03-01,1.90,17.20,2.90
+TradeI,Trading,2022-04-01,1.95,17.30,2.95
+TradeI,Trading,2022-05-01,2.00,17.40,3.00
+TradeI,Trading,2022-06-01,2.05,17.50,3.05
+TradeI,Trading,2022-07-01,2.10,17.60,3.10
+TradeI,Trading,2022-08-01,2.15,17.70,3.15
+TradeI,Trading,2022-09-01,2.20,17.80,3.20
+TradeI,Trading,2022-10-01,2.25,17.90,3.25
+TradeI,Trading,2022-11-01,2.30,18.00,3.30
+TradeI,Trading,2022-12-01,2.35,18.10,3.35
+TradeI,Trading,2023-01-01,2.40,18.20,3.40
+TradeI,Trading,2023-02-01,2.45,18.30,3.45
+TradeI,Trading,2023-03-01,2.50,18.40,3.50
+TradeI,Trading,2023-04-01,2.55,18.50,3.55
+TradeI,Trading,2023-05-01,2.60,18.60,3.60
+TradeI,Trading,2023-06-01,2.65,18.70,3.65
+TradeI,Trading,2023-07-01,2.70,18.80,3.70
+TradeI,Trading,2023-08-01,2.75,18.90,3.75
+TradeI,Trading,2023-09-01,2.80,19.00,3.80
+TradeI,Trading,2023-10-01  doj
+TradeI,Trading,2023-10-01,2.85,19.10,3.85
+TradeI,Trading,2023-11-01,2.90,19.20,3.90
+TradeI,Trading,2023-12-01,2.95,19.30,3.95
+TradeI,Trading,2024-01-01,3.00,19.40,4.00
+TradeI,Trading,2024-02-01,3.05,19.50,4.05
+TradeI,Trading,2024-03-01,3.10,19.60,4.10
+TradeI,Trading,2024-04-01,3.15,19.70,4.15
+TradeI,Trading,2024-05-01,3.20,19.80,4.20
+TradeI,Trading,2024-06-01,3.25,19.90,4.25
+TradeI,Trading,2024-07-01,3.30,20.00,4.30
+TradeI,Trading,2024-08-01,3.35,20.10,4.35
+TradeI,Trading,2024-09-01,3.40,20.20,4.40
+TradeI,Trading,2024-10-01,3.45,20.30,4.45
+TradeI,Trading,2024-11-01,3.50,20.40,4.50
+TradeI,Trading,2024-12-01,3.55,20.50,4.55
