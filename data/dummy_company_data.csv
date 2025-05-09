@@ -1,0 +1,11 @@
+Company_Name,Sector,EPS,P_E,P_B,Dividend_Yield,ROA,ROE,Debt_to_Equity,Price_Momentum,Volume_Trends,Ownership_Pattern,Regulatory_Red_Flags
+BankA,Commercial Bank,3.5,12.5,1.2,4.2,1.5,12.0,0.8,0.05,0.03,0.7,0
+HydroB,Hydropower,2.8,15.0,1.5,3.8,1.2,10.5,1.0,0.02,0.01,0.6,1
+HotelC,Hotel and Tourism,1.5,18.0,2.0,2.5,0.8,8.0,1.2,-0.01,0.02,0.5,0
+DebentureD,Corporate Debentures,4.0,10.0,0.9,5.0,2.0,15.0,0.5,0.04,0.04,0.8,0
+FinanceE,Finance,2.2,14.0,1.3,3.5,1.0,9.0,0.9,0.03,0.02,0.65,1
+BondF,Government Bonds,3.0,8.0,0.7,6.0,2.5,18.0,0.3,0.01,0.01,0.9,0
+InvestG,Investment,2.5,16.0,1.8,3.0,1.3,11.0,1.1,0.02,0.03,0.55,0
+LifeH,Life Insurance,3.2,13.0,1.4,4.0,1.7,13.0,0.7,0.04,0.02,0.75,0
+TradeI,Trading,1.8,17.0,2.1,2.8,0.9,7.5,1.3,-0.02,0.01,0.5,1
+ManuJ,Manufacturing,2.7,15.5,1.6,3.7,1.4,10.0,1.0,0.03,0.03,0.6,0
