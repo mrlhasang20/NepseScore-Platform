@@ -11,6 +11,9 @@ from models.combined_scoring import CombinedScoringModel
 
 
 def run_scoring_model(data_path, output_path):
+    # if os.path.exists(output_path): 
+    #     print(f"Output file already exists at {output_path}. Skipping scoring model.")
+    #     return
     print("Running scoring model...")
     try:
         model = CompanyScoringModel(data_path)
@@ -22,6 +25,9 @@ def run_scoring_model(data_path, output_path):
         raise
 
 def run_prediction_model(data_path, output_path):
+    # if os.path.exists(output_path):
+    #     print(f"Prediction output exists at {output_path}, skipping...")
+    #     return
     print("Running prediction model...")
     try:
         model = FinancialPredictionModel(data_path)
@@ -33,6 +39,10 @@ def run_prediction_model(data_path, output_path):
         raise
 
 def run_combined_scoring(current_scores_path, predicted_metrics_path, output_path):
+    # if os.path.exists(output_path):
+    #     print(f"Combined scoring output exists at {output_path}, skipping...")
+    #     return
+    
     print("Running combined scoring model...")
     try:
         model = CombinedScoringModel(current_scores_path, predicted_metrics_path)

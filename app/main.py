@@ -9,6 +9,11 @@ from pipeline import main as run_pipeline
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
+# Cache data loading
+@st.cache_data
+def load_data(file_path):
+    return pd.read_csv(file_path)
+
 # Run pipeline on startup if output files are missing
 if not (os.path.exists(os.path.join(script_dir, "../data/scored_company_data.csv")) and 
         os.path.exists(os.path.join(script_dir, "../data/predicted_metrics.csv")) and 
@@ -18,10 +23,15 @@ if not (os.path.exists(os.path.join(script_dir, "../data/scored_company_data.csv
 
 st.title("Nepse Invest")
 
-# Load data
-scored_data = pd.read_csv("data/scored_company_data.csv")
-predicted_data = pd.read_csv("data/predicted_metrics.csv")
-final_scores = pd.read_csv("data/final_scores.csv")
+#load data
+scored_data = load_data(os.path.join(script_dir, "../data/scored_company_data.csv"))
+predicted_data = load_data(os.path.join(script_dir, "../data/predicted_metrics.csv"))  
+final_scores = load_data(os.path.join(script_dir, "../data/final_scores.csv"))
+
+# # Load data
+# scored_data = pd.read_csv("data/scored_company_data.csv")
+# predicted_data = pd.read_csv("data/predicted_metrics.csv")
+# final_scores = pd.read_csv("data/final_scores.csv")
 
 # Tabs for scoring, predictions, and final scores
 tab1, tab2, tab3 = st.tabs(["Current Scores", "Future Predictions", "Final Scores"])
