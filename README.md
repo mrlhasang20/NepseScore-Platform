@@ -1,5 +1,10 @@
 # NepseScore Platform
 
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://python.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16.1-orange.svg)](https://www.tensorflow.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.34.0-red.svg)](https://streamlit.io/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 NepseScore Platform is an AI-powered analytics and prediction system for evaluating and ranking companies on the Nepal Stock Exchange (NEPSE). **This project currently operates on dummy (simulated) data for demonstration and research purposes.** Built for data scientists, analysts, and investors, it leverages state-of-the-art machine learning (ML) and deep learning (DL) models—particularly LSTM neural networks—for robust, data-driven scoring, forecasting, and interactive visualization. The platform efficiently processes simulated financial time series data, performing end-to-end feature engineering, normalization, and weighted scoring.
 
 ## Key AI & Data Science Features
