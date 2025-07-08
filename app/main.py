@@ -16,7 +16,7 @@ if not (os.path.exists(os.path.join(script_dir, "../data/scored_company_data.csv
     st.write("Running pipeline to generate data...")
     run_pipeline()
 
-st.title("Nepse Invest")
+st.title("NepseScore Platform")
 
 # Load data
 scored_data = pd.read_csv("data/scored_company_data.csv")
