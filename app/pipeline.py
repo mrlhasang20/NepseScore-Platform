@@ -1,7 +1,6 @@
 import os
 import sys
 
-# Adding the project root directory to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import subprocess
 import pandas as pd
